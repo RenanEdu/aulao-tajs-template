@@ -11,7 +11,7 @@ node -v
 ## Rodando
 
 Restaure as dependencias e execute o projeto:
-```sh
+t```sh
 npm ci --silent
 npm start
 ```
